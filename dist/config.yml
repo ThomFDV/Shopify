@@ -1,6 +1,0 @@
-development:
-  password: 3b2b1d2f3f4844699ad89a400fb1f21f
-  theme_id: "32082919529"
-  store: monsieur-biz.myshopify.com
-  ignore_files:
-  - src/config/settings_data.json
